@@ -15,7 +15,7 @@ The recipe generator helps users create new and unique recipes based on the ingr
 
 ## Technology Stack:
 
-Backend: Spring Boot, OpenAI API, Java, RESTful Web Services
+Backend: Spring Boot, SpringAI, OpenAI API, Java, RESTful Web Services
 Frontend: React, JavaScript, HTML, CSS
 
 ## Key Features:
