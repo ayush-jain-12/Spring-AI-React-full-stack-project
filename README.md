@@ -1,5 +1,10 @@
 # Project Title: Ask AI - An AI-Powered Chatbot, Photo Generator, and Recipe Generator
 
+![Screenshot 2024-08-27 205728](https://github.com/user-attachments/assets/08c79b8d-bfc8-460d-9e48-1e06ac2ead25)
+![Screenshot 2024-08-27 210605](https://github.com/user-attachments/assets/d6e34c06-76be-4232-be87-b6b7a460ef51)
+![image-generator](https://github.com/user-attachments/assets/ed354eda-dccd-4e95-81f1-28f97c72c6e4)
+
+
 ## Project Description:
 
 Ask AI is a comprehensive AI-driven platform developed using Spring Boot for the backend and React for the frontend. This full-stack project leverages the power of the OpenAI API to deliver three core functionalities:
